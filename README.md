@@ -2,7 +2,7 @@
 
 **Meghdoot** is a sleek and responsive weather application built using **React** and **Tailwind CSS**. It delivers real-time weather updates based on the user's current location and allows searching for any city or country around the world — complete with smart suggestions and a clean, modern UI.
 
-[🌐 Live Demo](https://meghdoot.onrender.com/)
+**Live Website**: [Meghdoot](https://meghdoot.onrender.com/)
 
 ---
 
